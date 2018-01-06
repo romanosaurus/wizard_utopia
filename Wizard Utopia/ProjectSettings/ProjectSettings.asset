@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 14
-  productGUID: 00000000000000000000000000000000
+  productGUID: f71e22d2283afdc47b0239e2f777c8d7
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   defaultScreenOrientation: 3
@@ -744,12 +744,12 @@ PlayerSettings:
     Game_Performance: 0
     Hub: 0
     Purchasing: 0
-    UNet: 0
+    UNet: 1
     Unity_Ads: 0
   facebookSdkVersion: 7.9.1
   apiCompatibilityLevel: 2
   cloudProjectId: 1a3bccf5-903c-4d66-8523-cb15672e7983
-  projectName: 
+  projectName: Wizard Utopia
   organizationId: w_utopia
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
