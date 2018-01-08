@@ -1,2 +1,2 @@
-# wizard_utopia
-MMORPG PROJECT
+# Wizard Utopia
+MMORPG base on magic
